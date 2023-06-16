@@ -1,5 +1,5 @@
 # tangent
-Python module for finding tangent point from starting point and circle. Will be used in future project.
+Python module for finding tangent point from starting point and circle. Consists of a single function. Will be used in future project.
 
 Uses graphics coordinates with top-left corner as (0, 0).
 
